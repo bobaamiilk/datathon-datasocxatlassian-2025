@@ -9,6 +9,9 @@ fri 12/9
 sat 13/9
 - explore -> clean -> prepare -> model
 - explore key variables (GRAPHS !!!, comparison), relationships/trends (GRAPHS !!!!!)
+- jess: pitch deck slides outline, template, colours, presentation, help clean/explore data
+- matt: explore data, relationships and trends, prepare to model
+- eric: prepare to model
 
 sun 14/9
 - model -> analyse -> evaluate -> share
