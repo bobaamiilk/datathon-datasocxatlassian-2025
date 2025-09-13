@@ -1,0 +1,21 @@
+documentation of the process.
+
+fri 12/9
+- case received
+- allocate team roles (eda/modelling/presentation)
+- explore
+- understand the dataset, data quality checks
+
+sat 13/9
+- explore -> clean -> prepare -> model
+- explore key variables (GRAPHS !!!, comparison), relationships/trends (GRAPHS !!!!!)
+
+sun 14/9
+- model -> analyse -> evaluate -> share
+- tell the story (churn, adoption, retention)
+
+mon 15/9
+- talk to reps
+- evaluate -> share
+
+qs to ask reps:
