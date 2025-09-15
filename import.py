@@ -18,7 +18,7 @@ def getSessionById(session_id, conn):
     return df.to_json(orient="records")
 
 def getUsers():
-    users = pd.read_csv("users.csv")
+    users = pd.read_csv("users.csv", keep_default_na=False)
     # 1. Connect to the database (or create it if it doesn't exist)
     #    This will create a file named 'mydatabase.db' in the current directory.
     conn = sqlite3.connect('mydatabase.db')
